@@ -1,3 +1,3 @@
 # corewar_
 
-![Alt text](/../<head>/gif_corewar.gif?raw=true "Optional Title")
+![](https://github.com/dpyrozho/corewar_/blob/master/gif_corewar.gif)
